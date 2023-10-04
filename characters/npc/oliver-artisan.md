@@ -2,7 +2,7 @@
 title: Oliver Artisan
 description: 
 published: true
-date: 2023-10-04T21:13:20.490Z
+date: 2023-10-04T21:14:28.508Z
 tags: npc
 editor: markdown
 dateCreated: 2023-10-04T21:13:20.490Z
