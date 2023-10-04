@@ -2,7 +2,7 @@
 title: Salkire Fort
 description: 
 published: true
-date: 2023-10-04T21:10:44.434Z
+date: 2023-10-04T21:16:10.753Z
 tags: town, dragon
 editor: markdown
 dateCreated: 2023-10-04T21:04:11.870Z
@@ -18,5 +18,5 @@ Salkire fort is home to a competing adventurers guild and the party was sent the
   Receptionist at the adventurers guild
 - Everesin
   Receptionist at the adventurers guild
-- Oliver Artisan
+- [Oliver Artisan](/characters/npcs/oliver-artisan)
   Runs the general Store
