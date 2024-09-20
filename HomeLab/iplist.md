@@ -2,7 +2,7 @@
 title: IP Addresses
 description: Ip Address List
 published: true
-date: 2024-09-20T22:40:53.733Z
+date: 2024-09-20T22:51:07.378Z
 tags: homelab, iplist
 editor: markdown
 dateCreated: 2024-09-20T22:14:14.489Z
@@ -54,8 +54,6 @@ Network Managment: https://172.25.15.166:8443/
 |-------------------------|--------------------------|-------------------------|----------------------|------------------------------|
 | CP3                     | 172.25.75.10             | [MAC Address of CP3]    | AV Gear              |                              |
 | CP4R                      | 172.25.75.11             | [MAC Address of DM]     | AV Gear              |                              |
-| Dvphd                   | 172.25.75.12             | [MAC Address of Dvphd]  | AV Gear              |                              |
-| Mc3                     | 172.25.75.13             | [MAC Address of Mc3]    | AV Gear              |                              |
 | Max24                   | 172.25.75.14             | [MAC Address of Swamp]  | AV Gear              |                              |
 | Camera System           | 172.25.75.30             | [MAC Address of Camera System] | Security Device      | Camera system setup          |
 | Camera 1                | 172.25.75.31             | [MAC Address of Camera 1] | Security Device      |                              |
@@ -66,8 +64,7 @@ Network Managment: https://172.25.15.166:8443/
 | Camera 6                | 172.25.75.36             | [MAC Address of Camera 6] | Security Device      |                              |
 | Camera 7                | 172.25.75.37             | [MAC Address of Camera 7] | Security Device      |                              |
 | Camera 8                | 172.25.75.38             | [MAC Address of Camera 8] | Security Device      |                              |
-| Integra                 | 172.25.75.52             | [MAC Address of Integra]  | AV Gear              |                              |
-| Autonomics              | 172.25.75.53             | [MAC Address of Autonomics]| AV Gear              |                              |
+| Integra                 | 172.25.75.52             | [MAC Address of Integra]  | AV Gear              |                              |                          |
 | Ex-Gateway              | 172.25.75.61             | [MAC Address of Ex-Gateway]| Networking Device    | External gateway             |
 
 
