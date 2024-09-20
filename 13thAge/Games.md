@@ -2,7 +2,7 @@
 title: Game Information
 description: 
 published: true
-date: 2024-09-20T19:09:30.956Z
+date: 2024-09-20T21:20:12.925Z
 tags: dnd
 editor: markdown
 dateCreated: 2024-09-20T18:33:19.354Z
@@ -29,16 +29,10 @@ Welcome to the list of our active Dungeons & Dragons games!
 
 | **Category**             | **Tags**                                                                                   |
 |--------------------------|--------------------------------------------------------------------------------------------|
-| **General Tags**         | #PlayerCharacter, #13thAge                     |
-| **Class Tags**           | #Barbarian, #Bard, #Cleric, #Cultist, #Druid, #Fighter, #Invoker, #Mage, #Paladin,      |
-|                          | #Ranger, #Rogue, #Sorcerer, #Warlock, #Warden                                            |
-| **Race Tags**            | #Human, #Elf, #Dwarf, #Halfling, #Gnome, #Orc, #Half-Elf, #Half-Orc                     |
-| **Background Tags**      | #Noble, #Soldier, #Outlander, #Scholar, #Merchant, #Criminal, #Cultist, #Adventurer,  |
-|                          | #ChosenOne                                                                                |
+| **General Tags**         | [#PlayerCharacter](/t/character), [#13thAge](/t/13thage)                     |
+| **Class Tags**           | [#Barbarian](?tags=13thage,barbarian), [#Bard](/t/bard), [#Cleric](/t/cleric), [#Cultist](/t/cultist), [#Druid](/t/druid), [#Fighter](/t/fighter), [#Paladin](/t/paladin),      |
+|                          | [#Ranger](/t/ranger), [#Rogue](/t/rogue), [#Sorcerer](/t/sorcerer)                                             |
+| **Race Tags**            | [#Human](/t/human), #Elf, #Dwarf, #Halfling, #Gnome, #Orc, [#Wood-Elf](/t/woodelf), #Half-Orc                     |
 | **Icon Tags**            | #TheEmperor, #HighDruid, #Archmage, #Crusader, #Diabolist, #PrinceOfShadows,           |
 |                          | #TheThree, #GreatGoldWyrm, #TheDarkLord                                                  |
-| **Role Tags**            | #Frontline, #Support, #DamageDealer, #Controller, #Utility                               |
-| **Theme Tags**           | #Heroic, #Epic, #Mythical, #DarkFantasy, #HighFantasy                                   |
 | **Adventure & Campaign Tags** | #CampaignName, #AdventureArc, #PartyGoals, #QuestLog                                |
-| **Character Traits Tags** | #Brave, #Cunning, #Compassionate, #Reckless, #Wise, #Mysterious                       |
-| **Miscellaneous Tags**   | #MagicUser, #MartialCharacter, #Healer, #Stealthy, #Spellcaster                        |
