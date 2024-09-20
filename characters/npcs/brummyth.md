@@ -2,10 +2,10 @@
 title: Brummyth, The Black
 description: 
 published: true
-date: 2023-10-04T21:07:54.016Z
+date: 2024-09-20T18:17:09.372Z
 tags: dragon, npc
 editor: markdown
-dateCreated: 2023-10-04T21:07:54.016Z
+dateCreated: 2024-09-20T17:04:50.094Z
 ---
 
 # Brummyth, the Black
