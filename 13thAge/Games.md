@@ -2,7 +2,7 @@
 title: Game Information
 description: 
 published: true
-date: 2024-09-20T21:20:12.925Z
+date: 2024-09-20T21:26:19.668Z
 tags: dnd
 editor: markdown
 dateCreated: 2024-09-20T18:33:19.354Z
@@ -29,10 +29,10 @@ Welcome to the list of our active Dungeons & Dragons games!
 
 | **Category**             | **Tags**                                                                                   |
 |--------------------------|--------------------------------------------------------------------------------------------|
-| **General Tags**         | [#PlayerCharacter](/t/character), [#13thAge](/t/13thage)                     |
-| **Class Tags**           | [#Barbarian](?tags=13thage,barbarian), [#Bard](/t/bard), [#Cleric](/t/cleric), [#Cultist](/t/cultist), [#Druid](/t/druid), [#Fighter](/t/fighter), [#Paladin](/t/paladin),      |
-|                          | [#Ranger](/t/ranger), [#Rogue](/t/rogue), [#Sorcerer](/t/sorcerer)                                             |
-| **Race Tags**            | [#Human](/t/human), #Elf, #Dwarf, #Halfling, #Gnome, #Orc, [#Wood-Elf](/t/woodelf), #Half-Orc                     |
-| **Icon Tags**            | #TheEmperor, #HighDruid, #Archmage, #Crusader, #Diabolist, #PrinceOfShadows,           |
-|                          | #TheThree, #GreatGoldWyrm, #TheDarkLord                                                  |
+| **General Tags**         | [#PlayerCharacter](/t/13thage/character), [#13thAge](/t/13thage)                     |
+| **Class Tags**           | [#Barbarian](/t/13thage/barbarian), [#Bard](/t/13thage/bard), [#Cleric](/t/13thage/cleric), [#Cultist](/t/13thage/cultist), [#Druid](/t/13thage/druid), [#Fighter](/t/13thage/fighter), [#Paladin](/t/13thage/paladin),      |
+|                          | [#Ranger](/t/13thage/ranger), [#Rogue](/t/13thage/rogue), [#Sorcerer](/t/13thage/sorcerer)                                             |
+| **Race Tags**            | [#Human](/t/13thage/human), #Elf, #Dwarf, #Halfling, #Gnome, #Orc, [#Wood-Elf](/t/13thage/woodelf), #Half-Orc                     |
+| **Icon Tags**            | [#TheEmperor](/t/13thage/theemperor), [#HighDruid](/t/13thage/highdruid), [#Archmage](/t/13thage/archmage), [#Crusader](/t/13thage/crusader), [#Diabolist](/t/13thage/diabolist), [#PrinceOfShadows](/t/13thage/princeofshadows),           |
+|                          | [#TheThree](/t/13thage/thethree), [#GreatGoldWyrm](/t/13thage/greatgoldwyrm), [#TheDarkLord](/t/13thage/thedarklord)                                                  |
 | **Adventure & Campaign Tags** | #CampaignName, #AdventureArc, #PartyGoals, #QuestLog                                |
