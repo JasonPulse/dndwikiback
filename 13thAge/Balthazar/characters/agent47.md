@@ -2,7 +2,7 @@
 title: Agent 47
 description: 
 published: true
-date: 2024-09-20T20:44:52.987Z
+date: 2024-09-20T20:45:03.941Z
 tags: character, rogue, 13thage, human, princeofshadows, martialcharacter
 editor: markdown
 dateCreated: 2024-09-20T17:04:28.327Z
@@ -38,10 +38,6 @@ dateCreated: 2024-09-20T17:04:28.327Z
 - **Strengths:** [Key strengths and abilities]
 - **Weaknesses:** [Any weaknesses or vulnerabilities]
 - **Special Skills:** [Unique skills, spells, or powers]
-
-## Combat
-- **Role in Combat:** Damage Dealer
-- **Tactics:** [Preferred combat tactics and strategies]
 
 ## Relationships
 - **Allies:** [Notable allies and friends]
