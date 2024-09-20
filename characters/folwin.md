@@ -2,10 +2,10 @@
 title: Folwin
 description: Machine Gun Archer
 published: true
-date: 2023-10-04T20:46:50.657Z
+date: 2024-09-20T18:15:33.596Z
 tags: character, ranger
 editor: markdown
-dateCreated: 2023-10-04T20:46:50.657Z
+dateCreated: 2024-09-20T17:04:36.682Z
 ---
 
 # Folwin
