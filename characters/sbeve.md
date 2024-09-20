@@ -2,10 +2,10 @@
 title: Sbeve
 description: 
 published: true
-date: 2023-09-18T19:29:30.924Z
+date: 2024-09-20T18:16:25.018Z
 tags: character, barbarian
 editor: markdown
-dateCreated: 2023-09-18T19:28:15.442Z
+dateCreated: 2024-09-20T17:04:41.389Z
 ---
 
 # Sbeve the Barbarian
