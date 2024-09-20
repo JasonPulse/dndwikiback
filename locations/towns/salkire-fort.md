@@ -2,10 +2,10 @@
 title: Salkire Fort
 description: 
 published: true
-date: 2023-10-04T21:16:10.753Z
-tags: town, dragon
+date: 2024-09-20T18:18:41.118Z
+tags: dragon, town
 editor: markdown
-dateCreated: 2023-10-04T21:04:11.870Z
+dateCreated: 2024-09-20T17:05:00.892Z
 ---
 
 # Salkire Fort
