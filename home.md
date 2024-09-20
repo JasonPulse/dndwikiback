@@ -2,10 +2,10 @@
 title: Balthazars Quest to Summon Atropus
 description: 
 published: true
-date: 2023-10-04T21:23:10.568Z
+date: 2024-09-20T18:19:06.793Z
 tags: 
 editor: markdown
-dateCreated: 2023-09-18T18:50:14.775Z
+dateCreated: 2024-09-20T17:04:24.269Z
 ---
 
 # Welcome
