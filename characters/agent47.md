@@ -2,10 +2,10 @@
 title: Agent 47
 description: 
 published: true
-date: 2023-10-04T21:00:02.432Z
+date: 2024-09-20T18:14:26.276Z
 tags: character, rogue
 editor: markdown
-dateCreated: 2023-10-04T20:58:12.139Z
+dateCreated: 2024-09-20T17:04:28.327Z
 ---
 
 # Agent 47
