@@ -2,7 +2,7 @@
 title: Town Template
 description: template for a town
 published: true
-date: 2024-09-20T21:34:34.595Z
+date: 2024-09-20T21:41:14.263Z
 tags: 13thage, template
 editor: markdown
 dateCreated: 2024-09-20T21:34:34.593Z
