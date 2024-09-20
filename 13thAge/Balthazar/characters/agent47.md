@@ -2,7 +2,7 @@
 title: Agent 47
 description: 
 published: true
-date: 2024-09-20T19:17:24.716Z
+date: 2024-09-20T20:44:52.987Z
 tags: character, rogue, 13thage, human, princeofshadows, martialcharacter
 editor: markdown
 dateCreated: 2024-09-20T17:04:28.327Z
@@ -12,10 +12,11 @@ dateCreated: 2024-09-20T17:04:28.327Z
 
 ## Overview
 - **Player:** Andy
-- **Race:** Human
-- **Class:** Rogue
+- **Race:** [Human](/t/human)
+- **Class:** [Rogue](/t/rogue)
 - **Background:** Result of a magical experiment
-- **Icon Relationships:** [Prince Of Shadows III](#princeofshadows)
+- **Icon Relationships:** 
+  - [Prince Of Shadows +III](/t/princeofshadows)
 - **Alignment:** [Alignment]
 
 ## Appearance
