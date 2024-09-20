@@ -2,7 +2,7 @@
 title: 13th Age Character Template
 description: a template to create a player character
 published: true
-date: 2024-09-20T20:47:09.786Z
+date: 2024-09-20T21:40:45.728Z
 tags: 13thage, template
 editor: markdown
 dateCreated: 2024-09-20T20:47:09.785Z
