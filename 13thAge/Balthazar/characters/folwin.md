@@ -2,7 +2,7 @@
 title: Folwin
 description: Machine Gun Archer
 published: true
-date: 2024-09-20T20:53:01.611Z
+date: 2024-09-20T21:07:28.070Z
 tags: character, ranger, 13thage, elfqueen, orclord, woodelf
 editor: markdown
 dateCreated: 2024-09-20T17:04:36.682Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-20T17:04:36.682Z
 - **Player:** Michael
 - **Race:** [Wood Elf](/t/woodelf)
 - **Class:** [Ranger](/t/ranger)
-- **Background:** Has an [Amulet](/13thage/balthazar/amulet) from a metor
+- **Background:** Has an [Amulet](/13thage/balthazar/items/amulet) from a metor
 - **Icon Relationships:** 
   - [Elf Queen +II](/t/elfqueen)
   - [Orc Lord -I](/t/orclord)
