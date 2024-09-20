@@ -2,8 +2,8 @@
 title: Salkire Fort
 description: 
 published: true
-date: 2024-09-20T21:38:56.865Z
-tags: dragon, town
+date: 2024-09-20T21:39:32.071Z
+tags: dragon, town, 13thage, balthazar
 editor: markdown
 dateCreated: 2024-09-20T17:05:00.892Z
 ---
