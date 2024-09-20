@@ -2,7 +2,7 @@
 title: Alue
 description: 
 published: true
-date: 2024-09-20T19:21:29.766Z
+date: 2024-09-20T20:41:19.668Z
 tags: character, druid
 editor: markdown
 dateCreated: 2024-09-20T17:04:32.597Z
@@ -16,9 +16,9 @@ dateCreated: 2024-09-20T17:04:32.597Z
 - **Class:** [Druid](#druid)
 - **Background:** Born from an Ent
 - **Icon Relationships:** 
-   - [High Druid +I](#highdruid)
-   - [Elf Queen +I](#elfqueen)
-   - [Orc Lord -I](#orclord)
+   - [High Druid +I](/t/highdruid)
+   - [Elf Queen +I](/t/elfqueen)
+   - [Orc Lord -I](/t/#orclord)
 - **Alignment:** [Alignment]
 
 ## Appearance
