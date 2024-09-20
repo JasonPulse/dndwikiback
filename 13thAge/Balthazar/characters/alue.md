@@ -2,7 +2,7 @@
 title: Alue
 description: 
 published: true
-date: 2024-09-20T20:42:49.469Z
+date: 2024-09-20T20:43:43.340Z
 tags: character, druid, 13thage, highdruid, elfqueen, orclord, woodelf
 editor: markdown
 dateCreated: 2024-09-20T17:04:32.597Z
@@ -12,8 +12,8 @@ dateCreated: 2024-09-20T17:04:32.597Z
 
 ## Overview
 - **Player:** Daniel
-- **Race:** [Wood Elf](#woodelf)
-- **Class:** [Druid](#druid)
+- **Race:** [Wood Elf](/t/woodelf)
+- **Class:** [Druid](/t/druid)
 - **Background:** Born from an Ent
 - **Icon Relationships:** 
    - [High Druid +I](/t/highdruid)
