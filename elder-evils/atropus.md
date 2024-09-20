@@ -1,4 +1,14 @@
 ---
+title: atropus
+description: 
+published: true
+date: 2024-09-20T18:18:09.258Z
+tags: 
+editor: markdown
+dateCreated: 2024-09-20T17:04:45.676Z
+---
+
+---
 title: Atropus: World Born Dead
 description: Atropus, known as the World Born Dead, was an alien entity whose coming was a harbinger of death and destruction.
 published: true
