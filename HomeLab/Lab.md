@@ -2,7 +2,7 @@
 title: Clift Home Lab
 description: 
 published: true
-date: 2025-10-06T20:55:47.614Z
+date: 2025-10-06T21:07:53.236Z
 tags: homelab
 editor: markdown
 dateCreated: 2025-01-30T04:25:04.642Z
@@ -11,7 +11,7 @@ dateCreated: 2025-01-30T04:25:04.642Z
 ## Hardware
 - Shared IP Address: 172.25.75.70
 ### Servers
-- **Whitemage:**
+- **[Whitemage](/HomeLab/Hardware/whitemage):**
   - **Model:** Orange Pi 5
   - **Role:** Control-Plane
   - **Ip Address:** 172.25.75.74
