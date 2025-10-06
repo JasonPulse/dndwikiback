@@ -2,10 +2,10 @@
 title: Clift Home Lab
 description: 
 published: true
-date: 2024-09-20T22:00:50.166Z
+date: 2025-10-06T20:55:47.614Z
 tags: homelab
 editor: markdown
-dateCreated: 2024-09-20T18:36:40.998Z
+dateCreated: 2025-01-30T04:25:04.642Z
 ---
 
 ## Hardware
@@ -13,17 +13,17 @@ dateCreated: 2024-09-20T18:36:40.998Z
 ### Servers
 - **Whitemage:**
   - **Model:** Orange Pi 5
-  - **Role:** Kubernetes Cluster
+  - **Role:** Control-Plane
   - **Ip Address:** 172.25.75.74
 
 - **Blackmage:**
   - **Model:** Orange Pi 5
-  - **Role:** Kubernetes Cluster
+  - **Role:** Worker
   - **Ip Address:** 172.25.75.75
 
 - **Bluemage:**
   - **Model:** Orange Pi 5
-  - **Role:** Kubernetes Cluster
+  - **Role:** Kubernetes Cluster 2 (RUNWAY Primary)
   - **Ip Address:** 172.25.75.76
 
 ### Networking Equipment
@@ -32,8 +32,15 @@ dateCreated: 2024-09-20T18:36:40.998Z
   - **Ip Address:** 172.25.15.1
 
 - **Switch:**
-  - **Model:** [Switch model]
-  - **Ports:** [Number of ports, type (managed/unmanaged)]
+  - Unifi 48 Non POE
+    - **Model:** Unifi 48 Port Non POE
+    - **Ports:** [Number of ports, type (managed/unmanaged)]
+  - Unifi 24 POE
+    - **Model:** Unifi 24 PoE
+    - **Ports:** 
+  - Zytel 24 Port
+    - **Model:** Zytel 24 Port PoE
+    - **Ports:**
 
 ## Software
 ### Operating Systems
