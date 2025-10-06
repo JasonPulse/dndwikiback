@@ -2,7 +2,7 @@
 title: Clift Home Lab
 description: 
 published: true
-date: 2025-10-06T21:07:53.236Z
+date: 2025-10-06T21:13:55.633Z
 tags: homelab
 editor: markdown
 dateCreated: 2025-01-30T04:25:04.642Z
@@ -32,7 +32,7 @@ dateCreated: 2025-01-30T04:25:04.642Z
   - **Ip Address:** 172.25.15.1
 
 - **Switch:**
-  - Unifi 48 Non POE
+  - [Unifi 48 Non POE](/HomeLab/Hardware/unifi48)
     - **Model:** Unifi 48 Port Non POE
     - **Ports:** [Number of ports, type (managed/unmanaged)]
   - Unifi 24 POE
